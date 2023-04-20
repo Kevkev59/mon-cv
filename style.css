@@ -1,0 +1,53 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    text-transform: uppercase;
+    font-weight:bold;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 25px;
+}
+
+h3{
+    padding: 25px;
+}
+
+.marker{
+    position: relative;
+    top:-160px;
+}
+.textcolor{
+    color:#21759B;
+}
+
+
+.container{
+    top: 60px;
+}
+
+.col{
+    width: 50%;
+}
+
+#photo{
+    width: 120px;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+#header{
+    margin-top:120px;
+}
+
+#contact{
+    font-size: x-large;
+}
+
+.row{
+    margin-top:100px;
+    margin-bottom:100px;
+}
